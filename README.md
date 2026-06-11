@@ -1,4 +1,4 @@
-Include these insights in your report:
+
 
 Fraud transactions account for a very small percentage of total transactions.
 Dataset is highly imbalanced.
